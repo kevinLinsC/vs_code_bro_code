@@ -1,2 +1,2 @@
-# vs_code_bro_code
+# vs code bro code
 Codigos das aulas do Bro Code
